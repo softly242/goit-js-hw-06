@@ -23,5 +23,3 @@ const imageEls = images.map((image) => {
 });
 
 list.append(...imageEls);
-
-console.log(imageEls);
